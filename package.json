@@ -1,8 +1,8 @@
 {
   "name": "cshs-website",
   "version": "1.0.0",
-  "description": "This is the official website for the JHS Computer Science Honor Society",
-  "main": "app.js",
+  "description": "JHS Computer Science Honor Society's official website",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/JHS-Computer-Science-Honor-Society/CSHS-Website.git"
   },
-  "author": "CS Council",
-  "license": "MIT",
+  "author": "JHS CSHS",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/JHS-Computer-Science-Honor-Society/CSHS-Website/issues"
   },
